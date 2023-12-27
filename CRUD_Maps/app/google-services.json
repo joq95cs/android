@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700233828202",
+    "firebase_url": "https://joqsan-crud-maps-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "joqsan-crud-maps",
+    "storage_bucket": "joqsan-crud-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700233828202:android:1d5a49db9bc3db75690713",
+        "android_client_info": {
+          "package_name": "castellanos.joqsan.crud_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbLCx_OL3XfLyQsg-YmS2FttdqVRmDhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
